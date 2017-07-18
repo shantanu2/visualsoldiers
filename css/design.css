@@ -1,0 +1,323 @@
+.navBrandImg {
+    margin-left: 75px;
+    max-height: 35px;
+}
+
+.navbar-header {
+    height: 60px;
+}
+
+.space {
+    margin-right: 100px;
+
+}
+
+.colchng {
+    color: #666;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.navbar {
+    background-color: #fff;
+    margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 52px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.jumbotron p {
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.jumbotron {
+    background-image: url('/images/s5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #17234E;
+    margin-bottom: 0;
+    min-height: 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 380px;
+    line-height: 45px;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    width: 600px;
+    height: 50px;
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+#sel1 {
+    width: 150px;
+    height: 50px;
+    margin-left: 450px;
+    font-size: 16px;
+}
+
+#sd {
+    margin-left: 272px;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.thumbnail img {
+    height: 80px;
+    width: 100px;
+    background-color: #f4f4f4;
+}
+
+.thumbnail {
+    height: 150px;
+    width: 150px;
+    background-color: #f4f4f4;
+}
+
+#john {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px;
+}
+#brock{
+    margin-top: 20px;
+   font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px; 
+}
+
+#undertaker{
+     margin-top: 20px;
+   font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px; 
+}
+#rock{
+   margin-top: 20px;
+   font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px;   
+}
+
+
+#hogan{
+
+margin-top: 20px;
+   font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px;   
+}
+#roman{
+
+margin-top: 20px;
+   font-size: 20px;
+    font-weight: 600;
+    color:#242424;
+    margin-left:100px;
+    padding-bottom:10px;
+    
+}
+#vince{
+    
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600;
+    margin: 36px 0 50px;
+}
+.shawn1 {
+    color: #3b5998;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: ProximaNova-Regular;
+}
+
+.triple {
+    font-size: 18px;
+    line-height: 1.56;
+    -webkit-tap-highlight-color: transparent;
+    color: #646464;
+    font-weight: 100;
+    font-family: ProximaNova-Regular;
+    
+}
+.shane{
+    font-size: 11px;
+    font-weight: 600;
+    -webkit-tap-highlight-color: transparent;
+    color: #949494;
+    font-family: ProximaNova-Regular;
+}
+.shawn2{
+    font-size: 14px;
+    font-weight: 600;
+    -webkit-tap-highlight-color: transparent;
+    color: #00aced;
+    font-family: ProximaNova-Regular;
+}
+.shawn3{
+    font-size: 14px;
+    font-weight: 600;
+    -webkit-tap-highlight-color: transparent;
+    color: #8bc34a;
+    font-family: ProximaNova-Regular;
+}
+.lana {
+    width: 349px;
+    height: 54px;
+    background-color: #fff;
+    border: 1px solid #949494;
+    font-size: 16px;
+    font-weight: 100;
+    font-family: ProximaNova-Regular;
+    margin-right: 10px;
+}
+.boss{
+        font-size: 16px;
+    color: #646464;
+    font-weight: 600;
+    
+    font-family: ProximaNova-Regular;
+        -webkit-tap-highlight-color: transparent;
+}
+.alexa{
+    padding-bottom:20px;
+        font-size: 16px;
+        font-weight: 100;
+        color: #646464;
+    width: 500px;
+        -webkit-tap-highlight-color: transparent;
+}
+.flair{
+    padding-bottom:10px;
+        font-size: 28px;
+    color: #242424;
+        font-weight: bold;
+    font-family: ProximaNova-Regular;
+}
+.kane{
+    font-size: 28px;
+    font-weight: bold;
+        text-align: center;
+    font-family: ProximaNova-Regular;
+    -webkit-tap-highlight-color: transparent;
+}
+.tori{
+    font-size: 16px;
+    color: #646464;
+    font-weight: 300;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    font-family: ProximaNova-Regular;
+    margin-bottom: 50px;
+}
+.shawn19 {
+        color: #646464;
+        text-align: center;
+        font-weight: 100;
+        font-size: 16px;
+        font-family: ProximaNova-Regular;
+        -webkit-tap-highlight-color: transparent;
+}
+
+.triple9 {
+         font-size: 20px;
+         line-height: 1.56;
+        -webkit-tap-highlight-color: transparent;
+         color: #1b1b1b;
+         font-weight: 600;
+         font-family: ProximaNova-Regular;
+         margin-bottom: 6px;
+         text-align: center;
+}
+.shane9{
+       font-size: 16px;
+       font-weight: 100;
+       text-align: center;
+       -webkit-tap-highlight-color: transparent;
+       color: #646464;
+       font-family: ProximaNova-Regular;
+}
+.orton{
+        height: 180px;
+        width: 180px;
+}
+
+.naomi{
+  font-weight: 400;
+  color: #646464;
+  font-size: 22px;
+  text-align: center;
+  font-family: ProximaNova-Regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  margin-top:20px;
+}
+
+#jh{
+        
+    border:1px solid hsla(0,0%,58%,.3);
+    height:158px;
+    margin-top:10px;
+
+}
+#lee{
+    border:1px solid hsla(0,0%,58%,.3);
+    height:158px;
+}
+
+
+#yuvi{
+    height:30px;
+    width: 30px;
+        background-color: #efefef;
+    border-radius: 30px;
+        
+        text-align: left;
+    font-weight: 100;
+    margin-top: 40px;
+    
+    
+}
+#mark{
+    font-weight: 600;
+    font-size: 16px;
+    color: #343434;
+    text-align: left;
+    font-family: ProximaNova-Regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    margin-left: 60px;
+}
+#broad{
+    
+    -webkit-tap-highlight-color: transparent;
+        text-align: left;
+        color: #646464;
+    font-size: 15px;
+    margin-left: 90px;
+}
+
+
+
+
+
+
+
